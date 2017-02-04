@@ -151,7 +151,6 @@ pythontex-files-*/
 
 # todonotes
 *.tdo
-mydocument.pdf
 
 # xindy
 *.xdy
